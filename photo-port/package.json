@@ -1,6 +1,6 @@
 {
   "homepage": "http://ratalla816.github.io/photo-port",
-  "name": "oh-snap",
+  "name": "photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
