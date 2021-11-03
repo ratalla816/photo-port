@@ -1,0 +1,48 @@
+{
+  
+  "name": "oh-snap",
+  
+  "version": "1.0.0",
+  
+  "description": "react app",
+  
+  "main": "index.js",
+  
+  "scripts": {},
+  
+  "repository": {
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/ratalla816/oh-snap.git"
+  
+  },
+  
+  "author": "Rob Atalla",
+  
+  "license": "MIT",
+  
+  "bugs": {
+  
+    
+  "url": "https://github.com/ratalla816/oh-snap/issues"
+  
+  },
+  
+  "homepage": "https://github.com/ratalla816/oh-snap#readme",
+  
+  "devDependencies": {
+  
+    
+  "@testing-library/jest-dom": "^5.14.1",
+  
+    
+  "@testing-library/react": "^12.1.2",
+  
+    
+  "gh-pages": "^3.2.3"
+  
+  }
+}
