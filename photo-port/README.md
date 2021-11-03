@@ -15,6 +15,8 @@
   ## Description
   
    Sample photography portfolio built with React.
+   <br>
+   Deployed using Github Pages <https://ratalla816.github.io/photo-port/>
  
   ## Table of Contents
   - [Description](#description)
@@ -107,9 +109,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   ## Screenshot
   ![application screenshot](./artifacts/images/ohsnapvid.gif)
 
-  ## Features
-  Stuff
-  
   # Acknowledgements
   Rob Atalla
     
