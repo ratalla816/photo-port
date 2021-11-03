@@ -15,13 +15,15 @@
   ## Description
   
    Sample photography portfolio built with React.
+   <br>
+   Deployed using Github Pages <https://ratalla816.github.io/photo-port/>
  
   ## Table of Contents
   - [Description](#description)
-  - [Deployment](#deployment)
   - [Documentation](#documentation)
   - [Usage](#usage)
   - [Screenshot](#screenshot)
+  - [Features](#features)
   - [Acknowledgements](#acknowledgements)
   - [License](#license)
   - [Testing](#testing)
@@ -32,7 +34,7 @@
   [React documentation](https://reactjs.org/)
  
   ## Usage
-  ## Getting Started with Create React App
+  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -106,10 +108,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
   ## Screenshot
   ![application screenshot](./artifacts/images/ohsnapvid.gif)
-  <br>
-  ![Screenshot](./artifacts/images/modalvid.gif)
 
-  ## Acknowledgements
+  # Acknowledgements
   Rob Atalla
     
   ## License
@@ -120,8 +120,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
   ## Testing
   Jest
-  <br>
-  ![testing](./artifacts/images/testvid.gif)
 
   ## Contact:
   Holler at me! <a href="mailto:rob.atalla@robatalla816.com">rob.atalla@robatalla816.com</a>
