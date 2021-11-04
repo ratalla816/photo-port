@@ -1,14 +1,14 @@
-# Oh Snap!
+# Photography Portfolio
 
-  ![badge](https://img.shields.io/github/languages/top/ratalla816/oh-snap)
+  ![badge](https://img.shields.io/github/languages/top/ratalla816/photo-port)
   <br> 
-  ![badge](https://img.shields.io/github/languages/count/ratalla816/oh-snap)
+  ![badge](https://img.shields.io/github/languages/count/ratalla816/photo-port)
   <br>
-  ![badge](https://img.shields.io/github/issues/ratalla816/oh-snap)
+  ![badge](https://img.shields.io/github/issues/ratalla816/photo-port)
   <br>
-  ![badge](https://img.shields.io/github/issues-closed/ratalla816/oh-snap)
+  ![badge](https://img.shields.io/github/issues-closed/ratalla816/photo-port)
   <br>
-  ![badge](https://img.shields.io/github/last-commit/ratalla816/oh-snap)
+  ![badge](https://img.shields.io/github/last-commit/ratalla816/photo-port)
   <br>
   ![badge](https://img.shields.io/badge/license-MIT-important)
   
